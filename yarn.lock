@@ -17,6 +17,11 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@cfxjs/use-wallet@^0.0.19":
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/@cfxjs/use-wallet/-/use-wallet-0.0.19.tgz#d7cabed92961d7b8ac28aa293d0d133c8ad688f7"
+  integrity sha512-eJC6FIcVkqgvjM7E5SbAIyKsoxqQREPlqDn9ueg7WNDGibIFg0/xjc6FLbbvYkv7yjw+qbCKW4pCeOXc0A3VCQ==
+
 "@eslint/eslintrc@^1.2.1":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-1.2.1.tgz#8b5e1c49f4077235516bc9ec7d41378c0f69b8c6"
@@ -425,6 +430,11 @@ debug@^4.1.1, debug@^4.3.2:
   integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
   dependencies:
     ms "2.1.2"
+
+decimal.js@^10.3.1:
+  version "10.3.1"
+  resolved "https://registry.yarnpkg.com/decimal.js/-/decimal.js-10.3.1.tgz#d8c3a444a9c6774ba60ca6ad7261c3a94fd5e783"
+  integrity sha512-V0pfhfr8suzyPGOx3nmq4aHqabehUZn6Ch9kyFpV79TGDTWFmHqUqXdabR7QHqxzrYolF4+tVmJhUG4OURg5dQ==
 
 deep-is@^0.1.3:
   version "0.1.4"
